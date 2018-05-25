@@ -1,5 +1,7 @@
 1,基本概念
-
+被观察者：observable
+观察者：observer,subscriber(在observer基础上扩展)
+subject = observable+observer
 
 
 2，基本api使用
